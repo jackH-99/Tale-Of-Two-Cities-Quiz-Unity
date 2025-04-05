@@ -1,0 +1,52 @@
+# This gitignore file is placed at the root directory of my project
+
+.utmp/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/Assets/AssetStoreTools*
+
+#Memory captures can get excessive in size
+/[Mm]emoryCaptures/
+
+#Recordings can get excessive in size
+/[Rr]ecordings/
+
+# Visual Studio cache directory
+.vs/
+.gradle/
+
+
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pidb*.mdb
+*.opendb
+*.VC.db
+
+#Unity 3D genertated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+#Unity 3D generated file on crash reports
+sysinfo.txt
+
+#Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+ 
